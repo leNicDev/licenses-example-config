@@ -1,0 +1,8 @@
+Identifier: cardealer
+Title: '&0Car Dealer'
+Size: 9
+Empty-Slot: 'GRAY_STAINED_GLASS_PANE'
+Licenses:
+- car_daiyun_10i
+- car_copel_orsa
+- car_dw_wolf_i

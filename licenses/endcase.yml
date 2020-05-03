@@ -1,0 +1,17 @@
+Identifier: endkey
+Material: TRIPWIRE_HOOK
+Name: '&c[&6End-Case Key&c]'
+# Whether the license is persistent. Non-persistent license purchases won't be saved.
+# These licenses can be purchased as often as required.
+# The purchase limit configured in the categories only applies when Persistent is set to true.
+Persistent: false
+Description:
+- ''
+- '&a@price DM'
+# List of permissions the player should receive
+Permissions: []
+Commands:
+- 'console: cr give to @p endcase'
+Category: case
+Price: 850
+Buy-Message: '&aYou just bought an &c[&6End-Case Key&c]&a.'

@@ -1,0 +1,18 @@
+Identifier: car_dw_wolf_i
+Material: TRIPWIRE_HOOK
+Name: 'dW Wolf I'
+# Whether the license is persistent. Non-persistent license purchases won't be saved.
+# These licenses can be purchased as often as required.
+# The purchase limit configured in the categories only applies when Persistent is set to true.
+Persistent: false
+Description:
+- 'Das Auto.'
+- ''
+- '&aPrice: &f@price DM'
+# List of permissions the player should receive
+Permissions: []
+Commands:
+  - 'console: givecar @p MAGENTA'
+Category: car
+Price: 35000
+Buy-Message: '&aYou just bought a &fdW Wolf I&a. Have a safe journey!'

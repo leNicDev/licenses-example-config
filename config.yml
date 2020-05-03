@@ -1,0 +1,10 @@
+MySQL:
+  Host: 127.0.0.1
+  Port: 3306
+  Database: licenses
+  Username: root
+  Password: root
+  Settings:
+    Max-Connections: 4
+    Table-Prefix: lc_
+Giveup-Prompt-Timeout-Secs: 10

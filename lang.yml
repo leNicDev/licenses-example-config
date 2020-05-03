@@ -1,0 +1,23 @@
+Prefix: '&4[Licenses] &r'
+Date-Format: 'yyyy-mm-dd hh:mm aaa' # See https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html
+Number-Format: '#,##0.00'
+Number-Format-Decimal-Separator: '.'
+Number-Format-Grouping-Separator: ','
+
+No-Permission: "&cYou don't have permission to do that!"
+No-Money: "&cYou can't afford that license!"
+Database-Lookup: '&6Searching database...'
+Has-Already: '&cYou already own this license!'
+Give-Up-Prompt: '&eDo you want to give up this license?\n&a/license accept &0| &4/license deny'
+Not-Give-Up-Queued: "&cYou didn't select a license to give up."
+Accept-Give-Up: '&aLicense given up.'
+Deny-Give-Up: "&cYou didn't give up the license."
+Category-Limit: '&cYou already own too many licenses of this category!'
+Shop-Not-Existing: '&cThe shop &f{{shop}} &cdoes not exist.'
+Shop-Not-Existing-Anymore: '&cThis shop does not exist anymore.'
+NPC-Created: '&aNPC created.'
+No-Licenses: "&cYou don't own any licenses."
+No-Licenses-Others: "&cThe player &f{{player}} &cdoes not own any licenses."
+List-Licenses: '&6You own these licenses: &7{{licenses}}'
+List-Licenses-Others: '&6The player &f{{player}} &6owns the following licenses: &7{{licenses}}'
+Player-Not-Existing: '&cThe player &f{{player}} &cis unknown.'

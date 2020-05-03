@@ -1,0 +1,17 @@
+Identifier: headkey
+Material: TRIPWIRE_HOOK
+Name: '&c[&6Head-Case Key&c]'
+# Whether the license is persistent. Non-persistent license purchases won't be saved.
+# These licenses can be purchased as often as required.
+# The purchase limit configured in the categories only applies when Persistent is set to true.
+Persistent: false
+Description:
+- ''
+- '&a@price DM'
+# List of permissions the player should receive
+Permissions: []
+Commands:
+- 'console: cr givekey @p headcase 1'
+Category: case
+Price: 1000
+Buy-Message: '&aYou just bought a &c[&6Head-Case Key&c]&a.'
